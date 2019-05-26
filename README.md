@@ -1,2 +1,0 @@
-# ProtectedRoutes
-Created with CodeSandbox
